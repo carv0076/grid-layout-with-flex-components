@@ -37,12 +37,12 @@ main .emoji {
     flex-direction: column;
 }
 
-.emoji span {
+main .emoji span {
     display: flex;
     justify-content: center;
     order: -1;
 }
 
-.emoji a {
+main .emoji a {
     margin-top: auto;
 }
