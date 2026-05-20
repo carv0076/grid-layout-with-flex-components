@@ -40,4 +40,9 @@ main .emoji {
 .emoji span {
     display: flex;
     justify-content: center;
+    order: -1;
+}
+
+.emoji a {
+    margin-top: auto;
 }
